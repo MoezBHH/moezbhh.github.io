@@ -230,6 +230,9 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _pages/blog.md
+  - _posts/
+  - _projects/?_project.md
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/

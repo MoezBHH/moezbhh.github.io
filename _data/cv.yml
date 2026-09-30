@@ -13,15 +13,15 @@ cv:
       username: moezbhh
 
   sections:
-    summary: 
+    Summary: 
       - Generative AI researcher and practitioner with over a decade of academic leadership and startup experience. As a Fulbright Scholar and two-time UC Berkeley Visiting Scholar, I specialize in Retrieval-Augmented Generation (RAG) and Agentic AI, bridging the gap between rigorous academic scholarship and commercial product development.
 
-    education:
+    Education:
       - institution: "Faculty of Sciences of Tunis, TN"
         url: https://fst.rnu.tn/
         area: Computer Science
         degree: PhD
-        summary: Deloyment of Data Mining Methods on Grid Computing. Distinction. Very honorable
+        summary: "Deloyment of Data Mining Methods on Grid Computing. Distinction: Very honorable."
         end_date: 2012-12
         score: Very honorable        
         
@@ -42,7 +42,7 @@ cv:
         highlights: []
   
       
-    experience:
+    Experience:
       - company: National Engineering School of Tunis (ENIT)
         position: Associate Professor
         location: Tunisia
@@ -99,7 +99,33 @@ cv:
         end_date: 2003-12
         summary: ""
         highlights: []
-
+    Mentoring:
+      - name: ""
+        start_date: 2013
+        summary: Mentored 2 PhD graduates, 10+ Master's students, and an average of 4 undergraduate researchers annually, leading to several student-co-authored publications.
+    Teaching:
+      - name: Big Data Analytics
+        start_date: 2017
+        summary: Graduate M.Eng (Year 5) MIndS and Telecom elective
+      - name: Cloud Computing
+        start_date: 2023
+        summary: Graduate M.Eng (Year 5) MIndS (Industrial Modelisation and Simulation)
+      - name: Natural Language Processing 
+        start_date: 2023
+        summary: Graduate M.S Information Processing and Complexity of Living Systems
+      - name: Virtualization
+        start_date: 2017
+        summary: Graduate M.Eng (Year 5) Computer Science
+      - name: Internet if Things
+        start_date: 2017
+        summary: Graduate M.Eng (Year 5) Computer Science
+      - name: Systems Programming
+        start_date: 2013
+        end_date: 2022
+        summary: Undergraduate M.Eng (Years 3 & 4) Computer Science
+      - name: Capstone projects
+        start_date: 2005
+        summary: "Graduate M.Eng Computer Science and other specilizations: supervised in average 5 students per year"
 
 
     Projects:
@@ -226,21 +252,13 @@ cv:
         summary: "Co-founded the TAIS association in Tunisia and led initiatives to bridge academia and industry by organizing AI training programs, business challenges, and public research events. Additionally, facilitated interactive educational sessions and coordinated online masterclasses featuring AI experts from the Tunisian diaspora."
         highlights: []
 
-    # Awards:
-    #   - title: Nobel Prize in Physics
-    #     authors:
-    #       - "Royal Swedish Academy of Sciences"
-    #     date: 1921-11-01
-    #     awarder: Royal Swedish Academy of Sciences
-    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-    #   - title: Max Planck Medal
-    #     authors:
-    #       - "German Physical Society"
-    #     date: 2029
-    #     awarder: German Physical Society
-    #     summary: Awarded for outstanding scientific achievement
+    Awards & Grants:
+      - bullet: Selected for the Fulbright Enrichment Program (2023)
+      - bullet: Fulbright Visiting Scholar Fellowship (2022) 
+      - bullet: First Place Winner, "IoT Meets AI" Hackathon at Sup'Com (March 1, 2020)
+      - bullet: PhD Fellowship under the France–Tunisia Research Support Initiative (2007-2009)
+      
+  
     Interests:
       # - name: AI
       #   icon: fa-solid fa-tag
@@ -384,184 +402,5 @@ cv:
         - label: French
           details: "Fluent"
 
-
-
 design:
   theme: moderncv
-  # page:
-  #   size: us-letter
-  #   top_margin: 0.7in
-  #   bottom_margin: 0.7in
-  #   left_margin: 0.7in
-  #   right_margin: 0.7in
-  #   show_footer: true
-  #   show_top_note: true
-  # colors:
-  #   body: rgb(0, 0, 0)
-  #   name: rgb(0, 79, 144)
-  #   headline: rgb(0, 79, 144)
-  #   connections: rgb(0, 79, 144)
-  #   section_titles: rgb(0, 79, 144)
-  #   links: rgb(0, 79, 144)
-  #   footer: rgb(128, 128, 128)
-  #   top_note: rgb(128, 128, 128)
-  # typography:
-  #   line_spacing: 0.6em
-  #   alignment: justified
-  #   date_and_location_column_alignment: right
-  #   font_family:
-  #     body: Fontin
-  #     name: Fontin
-  #     headline: Fontin
-  #     connections: Fontin
-  #     section_titles: Fontin
-  #   font_size:
-  #     body: 10pt
-  #     name: 25pt
-  #     headline: 10pt
-  #     connections: 10pt
-  #     section_titles: 1.4em
-  #   small_caps:
-  #     name: false
-  #     headline: false
-  #     connections: false
-  #     section_titles: false
-  #   bold:
-  #     name: false
-  #     headline: false
-  #     connections: false
-  #     section_titles: false
-  # links:
-  #   underline: true
-  #   show_external_link_icon: false
-  # header:
-  #   alignment: left
-  #   photo_width: 4.15cm
-  #   photo_position: left
-  #   photo_space_left: 0cm
-  #   photo_space_right: 0.3cm
-  #   space_below_name: 0.7cm
-  #   space_below_headline: 0.7cm
-  #   space_below_connections: 0.7cm
-  #   connections:
-  #     phone_number_format: national
-  #     hyperlink: true
-  #     show_icons: true
-  #     display_urls_instead_of_usernames: false
-  #     separator: ''
-  #     space_between_connections: 0.5cm
-  # section_titles:
-  #   type: moderncv
-  #   line_thickness: 0.15cm
-  #   space_above: 0.55cm
-  #   space_below: 0.3cm
-  # sections:
-  #   allow_page_break: true
-  #   space_between_regular_entries: 1.2em
-  #   space_between_text_based_entries: 0.3em
-  #   show_time_spans_in: []
-  # entries:
-  #   date_and_location_width: 4.15cm
-  #   side_space: 0cm
-  #   space_between_columns: 0.3cm
-  #   allow_page_break: false
-  #   short_second_row: false
-  #   degree_width: 1cm
-  #   summary:
-  #     space_above: 0.1cm
-  #     space_left: 0cm
-  #   highlights:
-  #     bullet: •
-  #     nested_bullet: •
-  #     space_left: 0cm
-  #     space_above: 0.15cm
-  #     space_between_items: 0.1cm
-  #     space_between_bullet_and_text: 0.3em
-  # templates:
-  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
-  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
-  #   single_date: MONTH_ABBREVIATION YEAR
-  #   date_range: START_DATE – END_DATE
-  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
-  #   one_line_entry:
-  #     main_column: '**LABEL:** DETAILS'
-  #   education_entry:
-  #     main_column: |-
-  #       **INSTITUTION**, DEGREE_WITH_AREA -- LOCATION
-  #       SUMMARY
-  #       HIGHLIGHTS
-  #     degree_column:
-  #     date_and_location_column: DATE
-  #   normal_entry:
-  #     main_column: |-
-  #       **NAME** -- **LOCATION**
-  #       SUMMARY
-  #       HIGHLIGHTS
-  #     date_and_location_column: DATE
-  #   experience_entry:
-  #     main_column: |-
-  #       **POSITION**, COMPANY -- LOCATION
-  #       SUMMARY
-  #       HIGHLIGHTS
-  #     date_and_location_column: DATE
-  #   publication_entry:
-  #     main_column: |-
-  #       **TITLE**
-  #       SUMMARY
-  #       AUTHORS
-  #       URL (JOURNAL)
-  #     date_and_location_column: DATE
-locale:
-  language: english
-  # last_updated: Last updated in
-  # month: month
-  # months: months
-  # year: year
-  # years: years
-  # present: present
-  # phrases:
-  #   degree_with_area: DEGREE in AREA
-  # month_abbreviations:
-  #   - Jan
-  #   - Feb
-  #   - Mar
-  #   - Apr
-  #   - May
-  #   - June
-  #   - July
-  #   - Aug
-  #   - Sept
-  #   - Oct
-  #   - Nov
-  #   - Dec
-  # month_names:
-  #   - January
-  #   - February
-  #   - March
-  #   - April
-  #   - May
-  #   - June
-  #   - July
-  #   - August
-  #   - September
-  #   - October
-  #   - November
-  #   - December
-settings:
-  current_date: today
-  render_command:
-    output_folder: rendercv_output
-    design:
-    locale:
-    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
-    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.pdf
-    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
-    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
-    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
-    dont_generate_markdown: false
-    dont_generate_html: false
-    dont_generate_typst: false
-    dont_generate_pdf: false
-    dont_generate_png: false
-  bold_keywords: []
-  pdf_title: NAME - CV

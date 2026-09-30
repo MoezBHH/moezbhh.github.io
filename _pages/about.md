@@ -30,7 +30,8 @@ I am an Associate Professor in the Information and Communication Technology (ICT
 
 ## Areas of Interest
 - Natural Language Processing
-- Generative AI (RAG, LLMs, Agentic AI)
+- Generative AI (RAG, LLMs)
+- Agentic AI
 - Distributed Computing 
 
 
@@ -40,5 +41,5 @@ I am an Associate Professor in the Information and Communication Technology (ICT
 Deployment of Data Mining Methods on Grid Computing
 Distinction: Very honorable
 - **MSc. in Computer Science** — FST, University of Tunis El Manar, TN (2005)
-Proposal of an algorithm for extracting closed frequent itemsets
-- **M.Eng. (Dpl.Ing.) in Computer Science** — FST, University of Tunis El Manar, TN (2002)
+Algorithm Design for Closed Frequent Itemset Extraction
+- **M.Eng. in Computer Science** — FST, University of Tunis El Manar, TN (2002)

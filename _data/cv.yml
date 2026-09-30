@@ -381,6 +381,33 @@ cv:
         journal: Journal of Information Science
         date: 2020-05
  
+    Academic Services:
+        - name: Organizing/Program Committee of Conferences and Academic Events
+          highlights:
+            - Scientific Committee member of [the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) 2024](https://lrec-coling-2024.org/), Torino, Italy
+            - Scientific Committee member of [the 13th Language Resources and Evaluation Conference (LREC-22) 2022](https://lrec2022.lrec-conf.org/en/), Marseille, France
+            - Program Committee member of [the 19th International Conference on Service-Oriented Computing (ICSOC-21) 2021](https://icsoc22021.servtech.info/index.html), Online
+            - Program Committee member of [the 18th International Conference on Service-Oriented Computing (ICSOC-20) 2020](https://icsoc2020.servtech.info/index.html), United Arab Emirates
+            - Program Committee member of [the 16th International Conference on Service-Oriented Computing (ICSOC-18) 2018](https://icsoc2018.servtech.info/index.html), Zhejiang, China
+            - Program Committee member of [the 15th International Conference on Service-Oriented Computing (ICSOC-17) 2017](https://icsoc2017.servtech.info/index.html), Málaga, Spain
+            - Program Committee member of [the 14th International Conference on Service-Oriented Computing (ICSOC-16) 2016](https://icsoc2016.servtech.info/index.html), Banff, Alberta, Canada
+            - Program Committee member of [the 13th International Conference on Service-Oriented Computing (ICSOC-15) 2015](https://icsoc2015.servtech.info/index.html), Goa, India
+            - Organizing Committee member of [International Conference on Knowledge Discovery and Data Analysis (KDDA) 2015](https://www.esi.dz/kdda), ESI, Algiers, Algeria
+            - Organizing Committee member of [International Workshop on Advanced Information Systems for Enterprises (IWAISE) 2014](http://www.lifl.fr/iwaise14/), Tunis, Tunisia
+            - Organizing Committee member of [the 3rd International Conference on the Extraction and Management of Knowledge (EGC-M) 2012](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=21885), 2012, Hammamet, Tunisia
+        - name: Associate Editor 
+          highlights:
+            - ACM Transactions on Asian and Low-Resource Language Information Processing ([TALLIP](https://dl.acm.org/journal/tallip/))
+        - name: Reviewer 
+          highlights:
+            - Science of Computer Programming, 2026
+            - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), 2024 -2026
+            - IEE Access, 2025-2026
+            - Journal of Information Science, 2021-2022
+            
+    Invited Talks and Presentations:
+      - bullet: none
+      - bullet: bb
     skills:
         - label: Languages
           details: Python, C/C++, Java

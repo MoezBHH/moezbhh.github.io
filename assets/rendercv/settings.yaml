@@ -1,5 +1,6 @@
 # for details on settings, see https://docs.rendercv.com/user_guide/yaml_input_structure/settings/
 settings:
+  current_date: today
   render_command:
     # Paths must be relative to _data/cv.yaml
     design: ../assets/rendercv/design.yaml
@@ -13,5 +14,6 @@ settings:
     dont_generate_html: true
     dont_generate_typst: false # typst generation is required for pdf output
     dont_generate_pdf: false
-    dont_generate_png: true
+    dont_generate_png: true 
   bold_keywords: []
+  pdf_title: NAME - CV

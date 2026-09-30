@@ -20,239 +20,289 @@ cv:
     countryCode: TN
 
   sections:
-
-  Education:
-  - institution: Faculty of Sciences of Tunis
-      location: Tunis, Tunisia
-      url: "https://fst.rnu.tn/"
-      area: Computer Science
-      studyType: PhD
-      start_date: ""
-      end_date: December 2012
-      score: Very honorable
-      courses: ""
-      highlights: []
-  - institution: Faculty of Sciences of Tunis
-      location: Tunis, Tunisia
-      url: "https://fst.rnu.tn/"
-      area: Computer Science
-      studyType: Master of Science
-      start_date: ""
-      end_date: May 2005
-      score: ""
-      courses: ""
-      highlights: []
-  - institution: Faculty of Sciences of Tunis
-      location: Tunis, Tunisia
-      url: "https://fst.rnu.tn/"
-      area: Computer Science
-      studyType: Master of Engineering
-      start_date: ""
-      end_date: June 2002
-      score: ""
-      courses: ""
-      highlights: []
-   
+    Education:
+    - institution: Faculty of Sciences of Tunis
+        location: Tunis, Tunisia
+        url: "https://fst.rnu.tn/"
+        area: Computer Science
+        studyType: PhD
+        start_date: ""
+        end_date: December 2012
+        score: Very honorable
+        courses: ""
+        highlights: []
+    - institution: Faculty of Sciences of Tunis
+        location: Tunis, Tunisia
+        url: "https://fst.rnu.tn/"
+        area: Computer Science
+        studyType: Master of Science
+        start_date: ""
+        end_date: May 2005
+        score: ""
+        courses: ""
+        highlights: []
+    - institution: Faculty of Sciences of Tunis
+        location: Tunis, Tunisia
+        url: "https://fst.rnu.tn/"
+        area: Computer Science
+        studyType: Master of Engineering
+        start_date: ""
+        end_date: June 2002
+        score: ""
+        courses: ""
+        highlights: []
     
-    Experience:
-      - company: National Engineering School of Tunis (ENIT)
-        position: Associate Professor
-        location: Tunisia
-        start_date: September 2013
-        end_date: Present
-        summary: Department of Information & Communication Technologies
-        highlights: []
-      - company: EECS, UC Berkeley
-        position: Visiting Scholar
-        location: California
-        start_date: Sep 2022
-        end_date: Aug 2023
-        summary: Departement of Electrical Engineering and Computer Science
-        highlights: []
-      - company: iCompass (startup)
-        position: Chief Operating Officer
-        location: Tunisia
-        start_date: October 2019
-        end_date: August 2022
-        summary: ""
-        highlights: []
-      - company: EECS, UC Berkeley
-        position: Visiting Scholar
-        location: California
-        start_date: April 2017
-        end_date: August 2017
-        summary: Departement of Electrical Engineering and Computer Science
-        highlights: []      
-      - company: Higher Institute of Applied Sciences and Technology of Sousse (ISSATSo)
-        position: Assistant Professor
-        location: Tunisia
-        start_date: September 2008
-        end_date: August 2013
-        summary: Department of Computer Science
-        highlights: []
-      - company: Faculty of Sciences of Tunis (FST)
-        position: Temporary Assistant Professor
-        location: Tunisia
-        start_date: September 2005
-        end_date: August 2008
-        summary: Department of Computer Science
-        highlights: []
-      - company: Marekha
-        position: Java/J2EE developer
-        location: Tunisia
-        start_date: January 2004
-        end_date: July 2004
-        summary: ""
-        highlights: []
-      - company: Faculty of Sciences of Tunis (FST)
-        position: System administrator (IBM SP2)
-        location: Tunisia
-        start_date: September 2002
-        end_date: December 2003
-        summary: ""
-        highlights: []
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-    Volunteer:
-      - company: Youth Association Science of Tunis (AJST)
-        position: Astronomy Animator
-        location: Tunis, Tunisia
-        start_date: October 2019
-        end_date: July 2006
-        summary: "Organized and facilitated interactive educational animations, astronomy training programs, and public astronomy events."
-        highlights: []
-      - company: CLL FST (Free Software Club)
-        position: Co-founder
-        location: Tunis, Tunisia
-        start_date: May 2004
-        end_date: ""
-        summary: "Co-founded the Free Software Club at the Faculty of Sciences of Tunis to promote the use of free software and raise technological awareness across various disciplines. Organized technical and socio-cultural events to unite a diverse community of students and educators."
-        highlights:
-        - "Organized notable annual events including Free Software Day (JLL), High School Day (JSL), Code Sprint, and the Linux Install Party."
-        - "Built and engaged a diverse, multidisciplinary community comprising over 1,000 members."
-      - company: UC Berkeley Spouses, Partners & Parents Association (BSPPA)
-        position: Board Member and Website Coordinator
-        location: Berkeley, California
-        start_date: February 2017
-        end_date: August 2017
-        summary: "Developed and maintained the organization's website while mentoring new researcher families to accelerate their integration. Shared personal settlement experiences and curated comprehensive recommendations for Bay Area activities, including university events, local schools, museums, and parks."
-        highlights: []
-      - company: Data Science North Africa & Arabia (DSNAA)
-        position: General Secretary
-        location: Tunis, Tunisia
-        start_date: January 2021
-        end_date: December 2024
-        summary: "Facilitated public AI events."
-        highlights: []
-      - company: Tunisian AI Society (TAIS)
-        position: President
-        location: Sfax, Tunisia
-        start_date: January 2024
-        end_date: Present
-        summary: "Co-founded the TAIS association in Tunisia and led initiatives to bridge academia and industry by organizing AI training programs, business challenges, and public research events. Additionally, facilitated interactive educational sessions and coordinated online masterclasses featuring AI experts from the Tunisian diaspora."
-        highlights: []
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Computer Science
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Python, C/C++, Java, Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), LangChain, LangGraph, Transformers, Deep Learning, TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain, LlamaIndex, Hadoop, Spark, SQL, NoSQL, Linux, Docker, Virtualization"
-
-    Languages:
-      - name: English
-        summary: "Fluent"
-      - name: Arabic
-        summary: "Native speaker"
-      - name: French
-        summary: "Fluent"
-
-    Interests:
-      - name: AI
-        icon: fa-solid fa-tag
-        keywords: "Natural Language Processing, Generative AI, (RAG, LLMs, Agentic AI), Distributed Computing "
-
-    Certificates:
-      - name: Building RAG Agents with LLMs
-        date: 2025-04-05
-        issuer: NVIDIA
-        icon: fa-solid fa-location-dot
-
-      - name: Building Agentic AI Applications with LLMs
-        date: 2025-08-03
-        issuer: NVIDIA
-        icon: fa-solid fa-envelope
-
-      - name: Building Transformer-Based Natural Language Processing Applications
-        date: 2025-01-24
-        issuer: NVIDIA
-        icon: fa-solid fa-envelope
       
-      - name: Getting Started with Deep Learning
-        date: 2021-10-06
-        issuer: NVIDIA
-        icon: fa-solid fa-envelope
+      Experience:
+        - company: National Engineering School of Tunis (ENIT)
+          position: Associate Professor
+          location: Tunisia
+          start_date: September 2013
+          end_date: Present
+          summary: Department of Information & Communication Technologies
+          highlights: []
+        - company: EECS, UC Berkeley
+          position: Visiting Scholar
+          location: California
+          start_date: Sep 2022
+          end_date: Aug 2023
+          summary: Departement of Electrical Engineering and Computer Science
+          highlights: []
+        - company: iCompass (startup)
+          position: Chief Operating Officer
+          location: Tunisia
+          start_date: October 2019
+          end_date: August 2022
+          summary: ""
+          highlights: []
+        - company: EECS, UC Berkeley
+          position: Visiting Scholar
+          location: California
+          start_date: April 2017
+          end_date: August 2017
+          summary: Departement of Electrical Engineering and Computer Science
+          highlights: []      
+        - company: Higher Institute of Applied Sciences and Technology of Sousse (ISSATSo)
+          position: Assistant Professor
+          location: Tunisia
+          start_date: September 2008
+          end_date: August 2013
+          summary: Department of Computer Science
+          highlights: []
+        - company: Faculty of Sciences of Tunis (FST)
+          position: Temporary Assistant Professor
+          location: Tunisia
+          start_date: September 2005
+          end_date: August 2008
+          summary: Department of Computer Science
+          highlights: []
+        - company: Marekha
+          position: Java/J2EE developer
+          location: Tunisia
+          start_date: January 2004
+          end_date: July 2004
+          summary: ""
+          highlights: []
+        - company: Faculty of Sciences of Tunis (FST)
+          position: System administrator (IBM SP2)
+          location: Tunisia
+          start_date: September 2002
+          end_date: December 2003
+          summary: ""
+          highlights: []
+      Volunteer:
+        - company: People's Climate March
+          position: Lead Organizer
+          location: Zurich, Switzerland
+          start_date: 2014-04-01
+          end_date: 2015-07-01
+          summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+          highlights:
+            - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+            - "Men of the year 2014 by Time magazine"
+      Volunteer:
+        - company: Youth Association Science of Tunis (AJST)
+          position: Astronomy Animator
+          location: Tunis, Tunisia
+          start_date: October 2019
+          end_date: July 2006
+          summary: "Organized and facilitated interactive educational animations, astronomy training programs, and public astronomy events."
+          highlights: []
+        - company: CLL FST (Free Software Club)
+          position: Co-founder
+          location: Tunis, Tunisia
+          start_date: May 2004
+          end_date: ""
+          summary: "Co-founded the Free Software Club at the Faculty of Sciences of Tunis to promote the use of free software and raise technological awareness across various disciplines. Organized technical and socio-cultural events to unite a diverse community of students and educators."
+          highlights:
+          - "Organized notable annual events including Free Software Day (JLL), High School Day (JSL), Code Sprint, and the Linux Install Party."
+          - "Built and engaged a diverse, multidisciplinary community comprising over 1,000 members."
+        - company: UC Berkeley Spouses, Partners & Parents Association (BSPPA)
+          position: Board Member and Website Coordinator
+          location: Berkeley, California
+          start_date: February 2017
+          end_date: August 2017
+          summary: "Developed and maintained the organization's website while mentoring new researcher families to accelerate their integration. Shared personal settlement experiences and curated comprehensive recommendations for Bay Area activities, including university events, local schools, museums, and parks."
+          highlights: []
+        - company: Data Science North Africa & Arabia (DSNAA)
+          position: General Secretary
+          location: Tunis, Tunisia
+          start_date: January 2021
+          end_date: December 2024
+          summary: "Facilitated public AI events."
+          highlights: []
+        - company: Tunisian AI Society (TAIS)
+          position: President
+          location: Sfax, Tunisia
+          start_date: January 2024
+          end_date: Present
+          summary: "Co-founded the TAIS association in Tunisia and led initiatives to bridge academia and industry by organizing AI training programs, business challenges, and public research events. Additionally, facilitated interactive educational sessions and coordinated online masterclasses featuring AI experts from the Tunisian diaspora."
+          highlights: []
+      Awards:
+        - title: Nobel Prize in Physics
+          authors:
+            - "Royal Swedish Academy of Sciences"
+          date: 1921-11-01
+          awarder: Royal Swedish Academy of Sciences
+          url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+          summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-      - name: Project Management Certification (TSPM).
-        date: 2020-01-22
-        issuer: TenStep 
-        icon: fa-solid fa-location-dot
+        - title: Max Planck Medal
+          authors:
+            - "German Physical Society"
+          date: 2029
+          awarder: German Physical Society
+          summary: Awarded for outstanding scientific achievement
+
+      Publications:
+        - title: Zur Elektrodynamik bewegter Körper
+          authors:
+            - Albert Einstein
+          publisher: Annalen der Physik
+          releaseDate: 1905-06-30
+          url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+          summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+
+        - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          authors:
+            - Albert Einstein
+          publisher: Annalen der Physik
+          releaseDate: 1905-03-18
+          url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+          summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+
+        - title: Die Grundlage der allgemeinen Relativitätstheorie
+          authors:
+            - Albert Einstein
+          publisher: Annalen der Physik
+          releaseDate: 1916-03-20
+          url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+          summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+
+      Skills:
+        - name: Computer Science
+          level: Master
+          icon: fa-solid fa-hashtag
+          keywords: "Python, C/C++, Java, Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), LangChain, LangGraph, Transformers, Deep Learning, TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain, LlamaIndex, Hadoop, Spark, SQL, NoSQL, Linux, Docker, Virtualization"
+
+      Languages:
+        - name: English
+          summary: "Fluent"
+        - name: Arabic
+          summary: "Native speaker"
+        - name: French
+          summary: "Fluent"
+
+      Interests:
+        - name: AI
+          icon: fa-solid fa-tag
+          keywords: "Natural Language Processing, Generative AI, (RAG, LLMs, Agentic AI), Distributed Computing "
+
+      Certificates:
+        - name: Building RAG Agents with LLMs
+          date: 2025-04-05
+          issuer: NVIDIA
+          icon: fa-solid fa-location-dot
+
+        - name: Building Agentic AI Applications with LLMs
+          date: 2025-08-03
+          issuer: NVIDIA
+          icon: fa-solid fa-envelope
+
+        - name: Building Transformer-Based Natural Language Processing Applications
+          date: 2025-01-24
+          issuer: NVIDIA
+          icon: fa-solid fa-envelope
+        
+        - name: Getting Started with Deep Learning
+          date: 2021-10-06
+          issuer: NVIDIA
+          icon: fa-solid fa-envelope
+
+        - name: Project Management Certification (TSPM).
+          date: 2020-01-22
+          issuer: TenStep 
+          icon: fa-solid fa-location-dot
 
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      Projects:
+        - name: Artificial Intelligence for Social Good
+          summary: ""
+          highlights:
+            - "Build Language models for under-represented languages."
+            - "Misogyny Identification in social media."
+            - "Hate and Abusive speech identification in social media."
+            - "Fake news."
+          start_date: "2019"
+          end_date: "2021"
 
-   
+          
+        - name: Artificial Intelligence for Social Good
+          summary: ""
+          highlights:
+            - "Build Language models for under-represented languages."
+            - "Misogyny Identification in social media."
+            - "Hate and Abusive speech identification in social media."
+            - "Fake news."
+          start_date: "2019"
+          end_date: "2021"
+
+
+        - name: Sentiment Analysis on Dialectal Arabic
+          summary: ""
+          highlights:
+            - "Build data sets: social networks scraping."
+            - "Build classification models: applying ML and DL techniques."
+            - "Accuracy > 90%"
+          start_date: "2018"
+          end_date: "2021"
+          
+        - name: Political Elections Forecast
+          summary: ""
+          highlights:
+            - "Detect politically influential messages based on different aspects (messages content, time, sentiment, and emotion)."
+            - "Use case: 2016 U.S presidential election."
+            - "Lower prediction error than state of the art work."
+          start_date: "2017"
+          end_date: "2018"
+          
+        - name: Scala-based Domain Specific Language for concurrent system modeling
+          summary: ""
+          highlights:
+            - "Use Scala as a Domain Specific Language to create models by connecting actors and setting parameters."
+            - "Use the DSL to define actors."
+          start_date: "2016"
+          end_date: "2017"
+
+        - name: Prediction of mobile applications breakout
+          summary: ""
+          highlights:
+            - "Identified 1768 mobile applications by Web scraping using Scrapy and Python"
+            - "31 K posts and ~2 M comments extracted from Facebook API and stored in MongoDB"
+            - "User sentiment derived from emoticons and bag of words"
+            - "Features engineered and a data set created"
+            - "70% of breakouts explained by users’ interactions and sentiments"
+          start_date: "2015"
+          end_date: "2016"
+
+    

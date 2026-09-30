@@ -1,89 +1,116 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Moez Ben Haj Hmida
+  label: Associate Professor
+  email: moez.benhajhmida@enit.utm.tn
+  location: El Manar Campus, Tunisia
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Generative AI researcher and practitioner with over a decade of academic leadership and startup experience. As a Fulbright Scholar and two-time UC Berkeley Visiting Scholar, I specialize in Retrieval-Augmented Generation (RAG) and Agentic AI, bridging the gap between rigorous academic scholarship and commercial product development.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: moezbhh
     - network: LinkedIn
-      username: example
+      username: moezbhh
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: El Mansura residence
+    city: Tunis
+    region: Tunisia
+    postalCode: 1082
+    countryCode: TN
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
+  Education:
+  - institution: Faculty of Sciences of Tunis
+      location: Tunis, Tunisia
+      url: "https://fst.rnu.tn/"
+      area: Computer Science
+      studyType: PhD
+      start_date: ""
+      end_date: December 2012
+      score: Very honorable
+      courses: ""
+      highlights: []
+  - institution: Faculty of Sciences of Tunis
+      location: Tunis, Tunisia
+      url: "https://fst.rnu.tn/"
+      area: Computer Science
+      studyType: Master of Science
+      start_date: ""
+      end_date: May 2005
+      score: ""
+      courses: ""
+      highlights: []
+  - institution: Faculty of Sciences of Tunis
+      location: Tunis, Tunisia
+      url: "https://fst.rnu.tn/"
+      area: Computer Science
+      studyType: Master of Engineering
+      start_date: ""
+      end_date: June 2002
+      score: ""
+      courses: ""
+      highlights: []
+   
+    
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
+      - company: National Engineering School of Tunis (ENIT)
+        position: Associate Professor
+        location: Tunisia
+        start_date: September 2013
+        end_date: Present
+        summary: Department of Information & Communication Technologies
+        highlights: []
+      - company: EECS, UC Berkeley
+        position: Visiting Scholar
+        location: California
+        start_date: Sep 2022
+        end_date: Aug 2023
+        summary: Departement of Electrical Engineering and Computer Science
+        highlights: []
+      - company: iCompass (startup)
+        position: Chief Operating Officer
+        location: Tunisia
+        start_date: October 2019
+        end_date: August 2022
+        summary: ""
+        highlights: []
+      - company: EECS, UC Berkeley
+        position: Visiting Scholar
+        location: California
+        start_date: April 2017
+        end_date: August 2017
+        summary: Departement of Electrical Engineering and Computer Science
+        highlights: []      
+      - company: Higher Institute of Applied Sciences and Technology of Sousse (ISSATSo)
+        position: Assistant Professor
+        location: Tunisia
+        start_date: September 2008
+        end_date: August 2013
+        summary: Department of Computer Science
+        highlights: []
+      - company: Faculty of Sciences of Tunis (FST)
+        position: Temporary Assistant Professor
+        location: Tunisia
+        start_date: September 2005
+        end_date: August 2008
+        summary: Department of Computer Science
+        highlights: []
+      - company: Marekha
+        position: Java/J2EE developer
+        location: Tunisia
+        start_date: January 2004
+        end_date: July 2004
+        summary: ""
+        highlights: []
+      - company: Faculty of Sciences of Tunis (FST)
+        position: System administrator (IBM SP2)
+        location: Tunisia
+        start_date: September 2002
+        end_date: December 2003
+        summary: ""
+        highlights: []
     Volunteer:
       - company: People's Climate March
         position: Lead Organizer
@@ -94,7 +121,44 @@ cv:
         highlights:
           - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
           - "Men of the year 2014 by Time magazine"
-
+    Volunteer:
+      - company: Youth Association Science of Tunis (AJST)
+        position: Astronomy Animator
+        location: Tunis, Tunisia
+        start_date: October 2019
+        end_date: July 2006
+        summary: "Organized and facilitated interactive educational animations, astronomy training programs, and public astronomy events."
+        highlights: []
+      - company: CLL FST (Free Software Club)
+        position: Co-founder
+        location: Tunis, Tunisia
+        start_date: May 2004
+        end_date: ""
+        summary: "Co-founded the Free Software Club at the Faculty of Sciences of Tunis to promote the use of free software and raise technological awareness across various disciplines. Organized technical and socio-cultural events to unite a diverse community of students and educators."
+        highlights:
+        - "Organized notable annual events including Free Software Day (JLL), High School Day (JSL), Code Sprint, and the Linux Install Party."
+        - "Built and engaged a diverse, multidisciplinary community comprising over 1,000 members."
+      - company: UC Berkeley Spouses, Partners & Parents Association (BSPPA)
+        position: Board Member and Website Coordinator
+        location: Berkeley, California
+        start_date: February 2017
+        end_date: August 2017
+        summary: "Developed and maintained the organization's website while mentoring new researcher families to accelerate their integration. Shared personal settlement experiences and curated comprehensive recommendations for Bay Area activities, including university events, local schools, museums, and parks."
+        highlights: []
+      - company: Data Science North Africa & Arabia (DSNAA)
+        position: General Secretary
+        location: Tunis, Tunisia
+        start_date: January 2021
+        end_date: December 2024
+        summary: "Facilitated public AI events."
+        highlights: []
+      - company: Tunisian AI Society (TAIS)
+        position: President
+        location: Sfax, Tunisia
+        start_date: January 2024
+        end_date: Present
+        summary: "Co-founded the TAIS association in Tunisia and led initiatives to bridge academia and industry by organizing AI training programs, business challenges, and public research events. Additionally, facilitated interactive educational sessions and coordinated online masterclasses featuring AI experts from the Tunisian diaspora."
+        highlights: []
     Awards:
       - title: Nobel Prize in Physics
         authors:
@@ -137,38 +201,50 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
+      - name: Computer Science
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Python, C/C++, Java, Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), LangChain, LangGraph, Transformers, Deep Learning, TensorFlow, PyTorch, Scikit-learn, Hugging Face, LangChain, LlamaIndex, Hadoop, Spark, SQL, NoSQL, Linux, Docker, Virtualization"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
+        summary: "Fluent"
+      - name: Arabic
+        summary: "Native speaker"
+      - name: French
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: AI
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Natural Language Processing, Generative AI, (RAG, LLMs, Agentic AI), Distributed Computing "
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Building RAG Agents with LLMs
+        date: 2025-04-05
+        issuer: NVIDIA
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Building Agentic AI Applications with LLMs
+        date: 2025-08-03
+        issuer: NVIDIA
         icon: fa-solid fa-envelope
+
+      - name: Building Transformer-Based Natural Language Processing Applications
+        date: 2025-01-24
+        issuer: NVIDIA
+        icon: fa-solid fa-envelope
+      
+      - name: Getting Started with Deep Learning
+        date: 2021-10-06
+        issuer: NVIDIA
+        icon: fa-solid fa-envelope
+
+      - name: Project Management Certification (TSPM).
+        date: 2020-01-22
+        issuer: TenStep 
+        icon: fa-solid fa-location-dot
+
 
     Projects:
       - name: Quantum Computing
@@ -179,11 +255,4 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+   

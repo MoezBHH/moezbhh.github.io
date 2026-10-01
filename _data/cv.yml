@@ -402,12 +402,20 @@ cv:
           highlights:
             - Science of Computer Programming, 2026
             - ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), 2024 -2026
-            - IEE Access, 2025-2026
+            - IEEE Access, 2025-2026
             - Journal of Information Science, 2021-2022
             
     Invited Talks and Presentations:
-      - bullet: none
-      - bullet: bb
+      - bullet: How is AI changing Culture & Art today?, Invited speaker, Fulbright Regional Conference, Tunis, Tunisia (July 2026)
+      - bullet: Embedded System Design via Lingua Franca, Invited Lecture (with Edward Lee), [AI-Assisted Programming lectures, AISoLA](https://2025-aisola.isola-conference.org/stress/), Rhodes, Greece (October 2025)
+      - bullet: Large Language Models (LLMs) for African Languages and Dialects, Invited Talk, IndabaX Burundi, Virtual (Burundi) (July 2024)
+      - bullet: NLP Applications in Arabic Languages and Dialects, Invited Talk, 3rd edition of the Mediterranean and African Summer School on Artificial Intelligence, Tunis, Tunisia (June 2024)
+      - bullet: The History of Artificial Intelligence, Invited Talk, Fulbright Visiting Scholar Series, SCIENTIFIC CARIBBEAN FOUNDATION, Virtual (Puerto Rico & Honduras) (April 2024)
+      - bullet: Generative AI powered Chatbots, Invited Talk, [11th IEEE Tunisian Students & Young Professionals](https://2023-tsyp.ieee.tn/speakers/moez_ben_haj_hmida), Hammamet, Tunisia (December 2023)
+      - bullet: Artificial Intelligence for Conversational Agents, Invited Seminar, Polytechnic University of Puerto Rico (May 2023)
+      - bullet: Big Data Architecture, Hands-on Tutorial, SOGETI, Toulouse France (July 2018)
+      - bullet: Parallel and Distributed Data Mining,  Invited Seminar, University of Manouba, Tunisia (November 2013)
+      - bullet: Parallel and Distributed Data Mining,  Conférence Internationale Francophone sur l'Extraction et la Gestion des Connaissances (EGC), Hammamet, Tunisia (January 2010)
     skills:
         - label: Languages
           details: Python, C/C++, Java
